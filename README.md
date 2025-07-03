@@ -12,4 +12,4 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # ChaiOrCoffee
 A quick fun game to prank your friends or I should say "your tea-addict friend"!
->>>>>>> 9b9d8b64634abc746f8294b58a1187d2b613709f
+ 9b9d8b64634abc746f8294b58a1187d2b613709f
